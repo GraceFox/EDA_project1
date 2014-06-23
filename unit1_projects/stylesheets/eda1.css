@@ -1,0 +1,12 @@
+
+	body  { background-color:#FFCCFF;  }
+	h1, h2, h3 {color:#FF0066;  
+              text-align: center;}
+	p {color: blue; 
+      margin-left: 20px;
+      text-align: left; }
+
+  .wrapper{
+     width: 100%;
+     max-width:1400px;
+     margin: 0 auto;
