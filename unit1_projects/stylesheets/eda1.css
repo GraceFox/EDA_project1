@@ -1,6 +1,6 @@
 
-	body  { background-color:#FFCCFF;  }
-	h1, h2, h3 {color:#FF0066;  
+	body  { background: #FFCCFF;  }
+	h1, h2, h3 {color: #FF0066;  
               text-align: center;}
 	p {color: blue; 
       margin-left: 20px;
@@ -9,4 +9,4 @@
   .wrapper{
      width: 100%;
      max-width:1400px;
-     margin: 0 auto;
+     margin: 0 auto;}
